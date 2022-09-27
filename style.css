@@ -1,0 +1,40 @@
+
+/* *{
+    border: solid;
+} */
+
+body{
+    background-color: rgb(245, 232, 222);
+}
+
+.cntr{
+    text-align: center;
+}
+
+.d1, .d2{
+    margin: 50px;
+}
+
+
+.tme{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    font-size: 50px;
+    border: solid;
+}
+
+
+p {
+    width: fit-content;
+    font-size: 50px;
+    display: inline-block;
+}
+
+
+.cent{
+display: flex;
+justify-content: center;
+margin-top: 18px;
+}
+
