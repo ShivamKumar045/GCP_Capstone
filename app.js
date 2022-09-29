@@ -1,13 +1,28 @@
 const express = require("express");
 const app = express();
-
-app.listen(3000, () => {
+const request = require('request');
+const path = require('path');
+app.listen(3001, () => {
   console.log("Application started and Listening on port 3000");
 });
 
 // serve your css as static
-app.use(express.static(__dirname));
 
-app.get("/", (req, res) => {
-  res.sendFile(__dirname + "/index.html");
+app.set("view engine", "ejs");
+app.use(express.static(path.join(__dirname, "public")));
+let hour;
+let minutes;
+
+app.get("/time", (req, res) => {
+  request('https://us-central1-qwiklabs-gcp-00-7b95a641de8f.cloudfunctions.net/helloGET', { json: true }, (err, res, body) => {
+  if (err) { return console.log(err); }
+  hour=body[0].hour
+  minutes = body[0].minutes
+  
+  console.log(hour,minutes);
+ 
+ 
+});
+
+res.render("index",{"hour":hour,"minutes":minutes });
 });
