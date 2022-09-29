@@ -2,9 +2,11 @@ const express = require("express");
 const app = express();
 const request = require('request');
 const path = require('path');
-app.listen(3001, () => {
-  console.log("Application started and Listening on port 3000");
-});
+const PORT = process.env.PORT;
+const HOST = process.env.HOST;
+app.listen(PORT, HOST, (req, res) => {
+    console.log(`Node.js server listening on http://${HOST}:${PORT}`);
+  });
 
 // serve your css as static
 
