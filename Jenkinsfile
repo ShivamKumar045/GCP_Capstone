@@ -7,7 +7,7 @@ pipeline {
         stage('Build and Deploy') {
             steps {
                 echo 'Building and Deploying the application...'
-               
+                npm install
                 node app.js
               
                 
