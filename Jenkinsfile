@@ -3,7 +3,7 @@ pipeline {
 
     tools {nodejs "node"}
 
-    stages {
+    stage {
         steps {
                 echo 'Deploying the application...'
                 sshPublisher(publishers: [sshPublisherDesc(configName: 'app-server-dev', transfers: [sshTransfer(cleanRemote: false, excludes: '', execCommand: '''npm install
