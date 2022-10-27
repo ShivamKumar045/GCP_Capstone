@@ -2,11 +2,9 @@ const express = require("express");
 const app = express();
 const request = require('request');
 const path = require('path');
-const PORT = process.env.PORT;
-const HOST = process.env.HOST;
-app.listen(PORT, HOST, (req, res) => {
-    console.log(`Node.js server listening on http://${HOST}:${PORT}`);
-  });
+app.listen(3000, () => {
+  console.log("Application started and Listening on port 3000");
+});
 
 // serve your css as static
 
@@ -16,7 +14,7 @@ let hour;
 let minutes;
 
 app.get("/time", (req, res) => {
-  request('https://us-central1-qwiklabs-gcp-00-7b95a641de8f.cloudfunctions.net/helloGET', { json: true }, (err, res, body) => {
+  request('https://hello-gateway-8lr1vymt.uc.gateway.dev/hello?key=AIzaSyDBwYz5bSGRoV7xN02kU5c3NVuD-OzNnnQ', { json: true }, (err, res, body) => {
   if (err) { return console.log(err); }
   hour=body[0].hour
   minutes = body[0].minutes
