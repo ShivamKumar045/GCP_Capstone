@@ -10,7 +10,7 @@ Exploring Watson Knowledge Studio
 
 Objective for Exercise:
 
--   Learn how to use Watson Knowledge Studio to analyze three pieces of text, first with the Domain model, and then with the Untrained model.
+-   Learn how to use Watson Knowledge Studio to analyze pieces of text, first with the Domain model, and then with the Untrained model.
 -   Comparing the results for both models.
 
 IBM provides an online demo of Watson Knowledge Studio at:[Watson Knowledge Studio](https://www.ibm.com/demos/live/watson-knowledge-studio/self-service)
