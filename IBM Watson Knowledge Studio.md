@@ -21,46 +21,32 @@ Use the following steps to explore the demo:
     
 2.  Click on Proceed to Demo    
 
-3.  Under the **SAMPLE INDUSTRY DOMAINS** heading, read
-    the text given in the **Text** box, and then click **Analyze Text**.
+3.  Under the **Auto Insurance ** heading, read
+    the text given in the **Annotations** box, and then read **Use Case Box**.
 
-4.  What is the overall sentiment of this piece of text?
 
-4.  Click **Emotion**, **Entities**, **Categories**, and **Concepts** to
-    answer the following questions:
+4.  Click **Covered Vehicle**, **Type of Incident**, **Parts of Car Impacted**,**Weather Conditions** and **Accident Outcome** and read their values that extracted from text given in the **Annotations** box
 
-5.  What is the prevalent emotion? Are there any other prevalent
-    emotions?
 
-6.  What are the entities that Watson Natural Language Understanding has
-    identified?
+5.  Then click on the **Untrained model** repeat above steps and compare the result of both models
 
-7.  What categories are identified?
+3.  Under the **Auto Insurance ** heading, read
+    the text given in the **Annotations** box, and then read **Use Case Box**.
 
-8.  What concepts are listed?
 
-9.  Under the **TRY YOUR OWN** content heading, click
-    **URL**.
+4.  Click **Covered Vehicle**, **Type of Incident**, **Parts of Car Impacted**,**Weather Conditions** and **Accident Outcome** and read their values that extracted from text given in the **Annotations** box
 
-10. Copy the URL and open the page in a new tab. What type of content is
-    this?
 
-11. On the **Natural Language Understanding** tab, click **Analyze URL**.
+5.  Then click on the **Untrained model** repeat above steps and compare the result of both models
 
-12. What is the overall sentiment of this piece of text?
+3.  Under the **Auto Insurance ** heading, read
+    the text given in the **Annotations** box, and then read **Use Case Box**.
 
-13. Click Emotion, Keywords, Categories, and Concepts to answer the
-    following questions:
 
-14. What is the prevalent emotion? Are there any other prevalent
-    emotions?
+4.  Click **Covered Vehicle**, **Type of Incident**, **Parts of Car Impacted**,**Weather Conditions** and **Accident Outcome** and read their values that extracted from text given in the **Annotations** box
 
-15. What are the first 3 keywords that Watson Natural Language
-    Understanding has identified?
 
-16. What categories are identified?
-
-17. What concepts are listed?
+5.  Then click on the **Untrained model** repeat above steps and compare the result of both models
 
 
 [Follow Rav
