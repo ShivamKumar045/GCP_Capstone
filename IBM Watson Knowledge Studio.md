@@ -22,7 +22,7 @@ Use the following steps to explore the demo:
 2.  Click on Proceed to Demo    
 
 3.  Under the **Auto Insurance ** heading, read
-    the text given in the **Annotations** box, and then read **Use Case Box**.
+    the text given in the **Annotations** box, and then go to the **Use Case Box**.
 
 
 4.  Click **Covered Vehicle**, **Type of Incident**, **Parts of Car Impacted**,**Weather Conditions** and **Accident Outcome** and read their values that extracted from text given in the **Annotations** box
@@ -30,23 +30,29 @@ Use the following steps to explore the demo:
 
 5.  Then click on the **Untrained model** repeat above steps and compare the result of both models
 
-3.  Under the **Auto Insurance ** heading, read
-    the text given in the **Annotations** box, and then read **Use Case Box**.
+6.  Which of the two models do you think is more accurate?
+
+7.  Under the **Financial Analysis ** heading, read
+    the text given in the **Annotations** box, and then read data given inside the **Use Case Box**.
 
 
-4.  Click **Covered Vehicle**, **Type of Incident**, **Parts of Car Impacted**,**Weather Conditions** and **Accident Outcome** and read their values that extracted from text given in the **Annotations** box
+8.  Read and understand information that is extracted from the text given in the **Annotations** box
 
 
-5.  Then click on the **Untrained model** repeat above steps and compare the result of both models
+10.  Then click on the **Untrained model** repeat above steps and compare the result of both models
 
-3.  Under the **Auto Insurance ** heading, read
-    the text given in the **Annotations** box, and then read **Use Case Box**.
+12.  Which of the two models do you think is more accurate?
+
+13.  Under the **Drug Research Journal ** heading, read
+    the text given in the **Annotations** box, and then go to the **Use Case Box**.
 
 
-4.  Click **Covered Vehicle**, **Type of Incident**, **Parts of Car Impacted**,**Weather Conditions** and **Accident Outcome** and read their values that extracted from text given in the **Annotations** box
+14.  Click **Drug name**, **Classification**, **Clincial applications** and **Common side effects** and read their values that extracted from the text given in the **Annotations** box
 
 
-5.  Then click on the **Untrained model** repeat above steps and compare the result of both models
+15.  Then click on the **Untrained model** repeat above steps and compare the result of both models
+
+16   Which of the two models do you think is more accurate?
 
 
 [Follow Rav
