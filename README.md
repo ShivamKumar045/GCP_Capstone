@@ -14,8 +14,7 @@ Objective for Exercise:
 
 IBM provides an online demo of Watson Natural Language Understanding
 at:[Natural Language
-Understanding](https://www.ibm.com/demos/live/natural-language-understanding/self-service)(or
-from the product page, click View demo).
+Understanding](https://www.ibm.com/demos/live/natural-language-understanding/self-service)
 
 Use the following steps to explore the demo:
 
