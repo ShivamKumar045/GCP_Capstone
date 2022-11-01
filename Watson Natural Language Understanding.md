@@ -66,7 +66,7 @@ Use the following steps to explore the demo:
 
 **Optional:**
 
-Copy the following text into the Text box:
+Click on the Input Text and paste the following text into the Text box:
 
 "Morehouse College, the private, all-male, historically black college in
 Atlanta that counts Martin Luther King among its alumni, expects its
