@@ -41,7 +41,7 @@ Use the following steps to explore the demo:
 
 8.  What concepts are listed?
 
-9.  Under the **TRY YOUR OWNr** content heading, click
+9.  Under the **TRY YOUR OWN** content heading, click
     **URL**.
 
 10. Copy the URL and open the page in a new tab. What type of content is
