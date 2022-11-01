@@ -25,7 +25,7 @@ Use the following steps to explore the demo:
     the text given in the **Annotations** box, and then go to the **Use Case Box**.
 
 
-4.  Click **Covered Vehicle**, **Type of Incident**, **Parts of Car Impacted**,**Weather Conditions** and **Accident Outcome** and read their values that extracted from text given in the **Annotations** box
+4.  Click **Covered Vehicle**, **Type of Incident**, **Parts of Car Impacted**,**Weather Conditions** and **Accident Outcome** and read their values that extracted from the text given in the **Annotations** box
 
 
 5.  Then click on the **Untrained model** repeat above steps and compare the result of both models
