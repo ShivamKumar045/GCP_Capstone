@@ -33,7 +33,7 @@ Use the following steps to explore the demo:
 6.  Which of the two models do you think is more accurate?
 
 7.  Under the **Financial Analysis** heading, read
-    the text given in the **Annotations** box, and then read data given inside the **Use Case Box**.
+    the text given in the **Annotations** box, and then go to the **Use Case Box**.
 
 
 8.  Read and understand information that is extracted from the text given in the **Annotations** box
