@@ -25,27 +25,29 @@ Use the following steps to explore the demo:
 
 1.  Access the online demo here:[Watson Speech to
     Text](https://www.ibm.com/demos/live/speech-to-text/self-service)
+    
+2.  Click on the Proceed to Demo  
 
-2.  Click **Play audio**.
+3.  Click **Play audio**.
 
-3.  Observe as Watson Speech to Text transcribes the audio and detects
+4.  Observe as Watson Speech to Text transcribes the audio and detects
     multiple speakers.
 
-4.  Click **Alternatives**.
+5.  Click **Alternatives**.
 
-5.  Scroll down
+6.  Scroll down
 
-6.  How many alternatives does Watson provide?
+7.  How many alternatives does Watson provide?
 
-7.  How confident is Watson that this is the word "online"?
+8.  How confident is Watson that this is the word "online"?
 
-8.  How confident is Watson that this is the word "help"?
+9.  How confident is Watson that this is the word "help"?
 
-9. In the **Word Timing** box, Scroll down.
+10. In the **Word Timing** box, Scroll down.
 
-10. What is the Word Timing of the word "return"
+11. What is the Word Timing of the word "return"
 
-11. What is the Word Timing of the word "keep"
+12. What is the Word Timing of the word "keep"
 
 
 
