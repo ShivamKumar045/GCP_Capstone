@@ -21,7 +21,7 @@ Use the following steps to explore the demo:
     
 2.  Click on Proceed to Demo    
 
-3.  Under the **Auto Insurance ** heading, read
+3.  Under the **Auto Insurance** heading, read
     the text given in the **Annotations** box, and then go to the **Use Case Box**.
 
 
@@ -32,7 +32,7 @@ Use the following steps to explore the demo:
 
 6.  Which of the two models do you think is more accurate?
 
-7.  Under the **Financial Analysis ** heading, read
+7.  Under the **Financial Analysis** heading, read
     the text given in the **Annotations** box, and then read data given inside the **Use Case Box**.
 
 
@@ -43,7 +43,7 @@ Use the following steps to explore the demo:
 
 12.  Which of the two models do you think is more accurate?
 
-13.  Under the **Drug Research Journal ** heading, read
+13.  Under the **Drug Research Journal** heading, read
     the text given in the **Annotations** box, and then go to the **Use Case Box**.
 
 
