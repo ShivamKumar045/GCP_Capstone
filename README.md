@@ -14,18 +14,20 @@ Objective for Exercise:
 
 IBM provides an online demo of Watson Natural Language Understanding
 at:[Natural Language
-Understanding](https://www.ibm.com/demos/live/natural-language-understanding/self-service/home)(or
+Understanding](https://www.ibm.com/demos/live/natural-language-understanding/self-service)(or
 from the product page, click View demo).
 
 Use the following steps to explore the demo:
 
 1.  Access the online demo here:[Natural Language
-    Understanding](https://www.ibm.com/demos/live/natural-language-understanding/self-service/home)
+    Understanding](https://www.ibm.com/demos/live/natural-language-understanding/self-service)
+    
+2.  Click on Proceed to Demo    
 
-2.  Under the **Examine a news article or other content** heading, read
-    the text given in the **Text** box, and then click **Analyze**.
+3.  Under the **SAMPLE INDUSTRY DOMAINS** heading, read
+    the text given in the **Text** box, and then click **Analyze Text**.
 
-3.  What is the overall sentiment of this piece of text?
+4.  What is the overall sentiment of this piece of text?
 
 4.  Click **Emotion**, **Entities**, **Categories**, and **Concepts** to
     answer the following questions:
@@ -40,13 +42,13 @@ Use the following steps to explore the demo:
 
 8.  What concepts are listed?
 
-9.  Under the **Examine a news article or other** content heading, click
+9.  Under the **TRY YOUR OWNr** content heading, click
     **URL**.
 
 10. Copy the URL and open the page in a new tab. What type of content is
     this?
 
-11. On the **Natural Language Understanding** tab, click **Analyze**.
+11. On the **Natural Language Understanding** tab, click **Analyze URL**.
 
 12. What is the overall sentiment of this piece of text?
 
@@ -86,7 +88,7 @@ psychology research suggests it could inspire a positive contagion
 effect, with generosity trickling downstream from past grads to new
 students."
 
-1.  Click **Analyze**.
+1.  Click **Analyze Text**.
 
 2.  What is the overall sentiment of this piece of text?
 
